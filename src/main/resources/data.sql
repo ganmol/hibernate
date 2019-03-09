@@ -1,0 +1,1 @@
+insert into course values (10001, "aa" );
